@@ -1,0 +1,6 @@
+line-bot-sdk
+flask
+yfinance 
+pandas 
+numpy
+numpy-financial
